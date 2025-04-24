@@ -7,12 +7,12 @@ import ProjectWeekView from '../views/ProjectWeek.vue'
 import BestSeminareView from '../views/BestSeminare.vue'
 
 const routes = [
-    { path: '/', component: HomeView },
-    { path: '/projects', component: ProjectsView },
-    { path: '/reflection', component: ReflectionView },
-    { path: '/innovationroute', component: InnovationRouteView },
-    { path: '/projectweek', component: ProjectWeekView },
-    { path: '/thevaluehub', component: BestSeminareView },
+    { path: '/I-talent/', component: HomeView },
+    { path: '/I-talent/projects', component: ProjectsView },
+    { path: '/I-talent/reflection', component: ReflectionView },
+    { path: '/I-talent/innovationroute', component: InnovationRouteView },
+    { path: '/I-talent/projectweek', component: ProjectWeekView },
+    { path: '/I-talent/thevaluehub', component: BestSeminareView },
 ]
 
 const router = createRouter({
