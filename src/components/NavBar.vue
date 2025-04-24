@@ -7,7 +7,7 @@
       <li><router-link to="/I-talent/innovationroute" class="element font-bold">Innovatieroute UI/UX</router-link></li>
       <li><router-link to="/I-talent/projectweek" class="element font-bold">Projectweek 2de jaar</router-link></li>
       <li><router-link to="/I-talent/thevaluehub" class="element font-bold">The Value Hub</router-link></li>
-      <li><router-link to="/I-talent/reflection" class="element font-bold">EindReflectie</router-link></li>
+      <li><router-link to="/I-talent/reflection" class="element font-bold">Eindreflectie</router-link></li>
     </ul>
   </nav>
 </template>
